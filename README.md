@@ -42,15 +42,32 @@
     </td>
   </tr>
 </table>
-
+<br>
+<br>
+<!-- 👨‍💻 About Me Section -->
+<h2 align="center">✨ About Me </h2>
+<div style="background: rgba(0,0,0,0.1); padding: 20px; border-radius: 10px; margin: 20px 0; animation: fadeIn 2s;">
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin: 15px 0; animation: slideIn 0.5s ease-out;">👋 <b>Hello there!</b> I'm a passionate Computer Science enthusiast currently exploring the digital universe.</li>
+    <li style="margin: 15px 0; animation: slideIn 0.8s ease-out;">💡 <b>Innovation seeker</b> - I thrive on turning complex problems into elegant digital solutions.</li>
+    <li style="margin: 15px 0; animation: slideIn 1.1s ease-out;">🌱 <b>Currently growing</b> my skills in data structures, cloud computing, and AI fundamentals.</li>
+    <li style="margin: 15px 0; animation: slideIn 1.4s ease-out;">👨‍💻 <b>Full-stack explorer</b> - Enjoy crafting seamless user experiences with robust backend systems.</li>
+    <li style="margin: 15px 0; animation: slideIn 1.7s ease-out;">🚀 <b>Tech community member</b> - Active in collaborative coding initiatives and hackathons.</li>
+    <li style="margin: 15px 0; animation: slideIn 2.0s ease-out;">📚 <b>Knowledge collector</b> - Constantly adding new frameworks and methodologies to my toolkit.</li>
+    <li style="margin: 15px 0; animation: slideIn 2.3s ease-out;">🔍 <b>Quality-focused</b> - Believe in writing maintainable, well-documented code that stands the test of time.</li>
+  </ul>
+</div>
+<br>
 ---
 
 ## 🔥 My GitHub Universe
 
 <div align="center">
 
-![Fitsum GitHub Stats](https://github-readme-stats.vercel.app/api?username=fitse-hub&show_icons=true&theme=radical&count_private=true)
+![Fitsum GitHub Stats](https://github-readme-stats.vercel.app/api?username=fitse-hub&show_icons=true&theme=radical&count_private=true)<br>
+<br>
 ![Fitsum Streak](https://streak-stats.demolab.com/?user=fitsum&theme=radical)
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=fitsum&theme=gruvbox&row=1&column=6" />
 
