@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,255,255,0.6);" />
+  <img src="https://i.pinimg.com/736x/7c/bf/b7/7cbfb7cf54bd2871ed9ac5063b6e9d5d.jpg" width="350" height="150" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,255,255,0.6);" />
 </p>
 
 <p align="center">
