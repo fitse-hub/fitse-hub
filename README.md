@@ -1,121 +1,108 @@
-<!-- Animated Hero Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1500&color=FF6C37&center=true&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+Fitsum+%F0%9F%91%8B;Front-End+Web+Developer;Creative+Problem+Solver;Passionate+About+Code+%26+Design" alt="Typing Animation" />
-</h1>
+<div align="center"> 
+ 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fitsumhelina&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/fitsumhelina)
+</div>
+<h1 align="center">Ola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-  <img src="https://i.pinimg.com/736x/7c/bf/b7/7cbfb7cf54bd2871ed9ac5063b6e9d5d.jpg" width="350" height="150" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,255,255,0.6);" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" />
+</p>
+<p >
+  Hi, I'm a self-taught Fullstack developer 💻 passionate about solving real-world problems with digital solutions.
 </p>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
+  Want the full story? Check out  
+  [here](https://drive.google.com/file/d/1HcrUFutDbNgbuKjzZFIcfTr4KqwqyE3u/view?usp=sharing)!
 
----
 
-## 🌟 Who is Fitsum?
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<br>
 
 <div align="center">
+ 
+# Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Web+Reality;Building+Beautiful+Code+and+Interfaces" />
+| My GitHub Statistics | Most Used Languages | Streaks |
+| --- | --- | --- |
+| ![Fitsum Git Status](https://github-readme-stats.vercel.app/api?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fitsumhelina&theme=dark)
 
 </div>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90">
-      <br>💡 Problem Solver
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90">
-      <br>🧠 Curious Thinker
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90">
-      <br>🎨 UI/UX Enthusiast
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="90">
-      <br>📚 Lifelong Learner
-    </td>
-  </tr>
-</table>
-<br>
-<br>
-<!-- 👨‍💻 About Me Section -->
-<h2 align="center">✨ About Me </h2>
-<div style="background: rgba(0,0,0,0.1); padding: 20px; border-radius: 10px; margin: 20px 0; animation: fadeIn 2s;">
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin: 15px 0; animation: slideIn 0.5s ease-out;">👋 <b>Hello there!</b> I'm a passionate Computer Science enthusiast currently exploring the digital universe.</li>
-    <li style="margin: 15px 0; animation: slideIn 0.8s ease-out;">💡 <b>Innovation seeker</b> - I thrive on turning complex problems into elegant digital solutions.</li>
-    <li style="margin: 15px 0; animation: slideIn 1.1s ease-out;">🌱 <b>Currently growing</b> my skills in data structures, cloud computing, and AI fundamentals.</li>
-    <li style="margin: 15px 0; animation: slideIn 1.4s ease-out;">👨‍💻 <b>Full-stack explorer</b> - Enjoy crafting seamless user experiences with robust backend systems.</li>
-    <li style="margin: 15px 0; animation: slideIn 1.7s ease-out;">🚀 <b>Tech community member</b> - Active in collaborative coding initiatives and hackathons.</li>
-    <li style="margin: 15px 0; animation: slideIn 2.0s ease-out;">📚 <b>Knowledge collector</b> - Constantly adding new frameworks and methodologies to my toolkit.</li>
-    <li style="margin: 15px 0; animation: slideIn 2.3s ease-out;">🔍 <b>Quality-focused</b> - Believe in writing maintainable, well-documented code that stands the test of time.</li>
-  </ul>
-</div>
-<br>
 ---
 
-## 🔥 My GitHub Universe
+ 
+
+
+## 🚀 Skills
 
 <div align="center">
+  
 
-![Fitsum GitHub Stats](https://github-readme-stats.vercel.app/api?username=fitse-hub&show_icons=true&theme=radical&count_private=true)<br>
-<br>
-![Fitsum Streak](https://streak-stats.demolab.com/?user=fitsum&theme=radical)
-<br>
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="50" alt="HTML" />
+  <img src="https://github.com/CSS-Next/logo.css/raw/main/css.svg" height="50" alt="CSS" />
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="50" alt="Python" />
+  <img src="https://cdn.worldvectorlogo.com/logos/java-2.svg" height="50" alt="Java" />
+  <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" height="50" alt="Php />
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" alt="C++" />
+ </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=fitsum&theme=gruvbox&row=1&column=6" />
+
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="50" alt="React" />
+  <img src="https://vitejs.dev/logo.svg" height="50" alt="Vite" />
+   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="50" alt="Next" />
+ <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="50" alt="TypeScript" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="50" alt="Tailwind CSS" />
+</p>
+
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="50" alt="Node.js" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="50" alt="Laravel" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="50" alt="MongoDB" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="50" alt="Firebase" />
+  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="50" alt="Xampp" />
+</p>
+
+
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" height="50" alt="GitHub" />
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="50" alt="Git" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="50" alt="Postman" />
+  <img src="https://imgs.search.brave.com/17L-z3KHyIN5mlINlO7ex1vLWFkVkg_fS6lCnRxCpNw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2F0ay5kZXYvc3Rh/dGljLzg2ZjJmNDhi/OWIwZGQ5MDBiNDg5/MmY0OWY0YmJhYjgx/L2U0ZjA2L2xvZ28u/cG5n" height="50" alt="Thunder Client" />
+  <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="50" alt="Netlify" />
+  <img src="https://imgs.search.brave.com/TMj7RdxJPIsmJC9KaGH1M_YwCRg1rd4bHDWzJsqFIy4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvaGVyb2t1/LjBkMzUyNTgwYjU2/Mi5wbmc" height="50" alt="Heroku" />
+  <img src="https://imgs.search.brave.com/96khqNZO1LJt_e6RG-xNXrYl-d0TcMaaPpXmcY3nm3g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RfdmVy/Y2VsMTg2OC5qcGc" height="50" alt="Vercel" />
+</p>
+
+
+<p>
+  <img src="https://imgs.search.brave.com/gAmpRkVnmc780FDrCM1Y_kZV6HlXDCp6hj3Is2Rmnik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NjczMzYz/N2xvZ28tY2FudmEt/cG5nLnBuZw" height="50" alt="Canva" />
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" height="50" alt="Figma" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="50" alt="Adobe Photoshop" />
+</p>
 
 </div>
 
----
-
-## 💼 Tech Toolbox
-
-### ⚙️ Front-End
-
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-
-### 🔙 Back-End
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### 🛠️ Dev Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
 ---
 
-## 📞 Let's Connect & Build Together!
+## Contact Me 👇
 
+🌟 I'm always open to collaboration and working on exciting projects and ideas. If you share similar interests or have a project you'd like to work on, feel free to reach out on the socials below!
 <p align="center">
-  <a href="mailto:fitsumgashaw11@gmail.com" title="Send Me an Email"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/fitsum" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/fitse-hub" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://your-portfolio.com" title="Visit My Portfolio"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href='https://www.linkedin.com/in/fitsum-helina-57164828a/'>
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="35px"/>
+  </a>
+  <a href='mailto:dev.fitsum@gmail.com'>
+    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="35px"/>
+  </a>
+  <a href='https://t.me/fitsumhelina'>
+    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" height="35px"/>
+  </a>
 </p>
-
----
-
-## 🌀 Farewell Animation
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=2000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;May+your+code+always+compile+%F0%9F%92%AA" />
-</p>
-
----
-
-<!-- Particle Animation Background (for GitHub profile pages that support it like profile-readme-pinned.netlify.app) -->
