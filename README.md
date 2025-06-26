@@ -1,106 +1,147 @@
-<div align="center"> 
- 
+<div align="center">
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fitse-hub&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/fitse-hub)
-</div>
-<h1 align="center">Bonjour! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fitse-hub&label=Profile%20views&color=0e75b6&style=flat" alt="fitse-hub" />
-</p>
-<p >
-  Hi, I'm a self-taught Fullstack developer 💻 passionate about solving real-world problems with digital solutions.
-</p>
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Welcome to My Digital Universe <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-  Want the full story? Check out  
-  [here](https://docs.google.com/document/d/1a_T9rdK5TUII_L2E1si9-t5TcdkV_Pf6xEfpR9_r78E/edit?tab=t.0)!
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=🚀+FULL+STACK+ARCHITECT;💎+UI%2FUX+VIRTUOSO;🧠+AI+INNOVATION+PIONEER;⚡+PERFORMANCE+OPTIMIZATION+EXPERT;🌟+DIGITAL+TRANSFORMATION+CATALYST" alt="Animated Titles" />
 
+<!-- Holographic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<br>
-
-<div align="center">
- 
-# Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
-
-| My GitHub Statistics | Most Used Languages | Streaks |
-| --- | --- | --- |
-| ![Fitsum Git Status](https://github-readme-stats.vercel.app/api?username=fitse-hub&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitse-hub&show_icons=true&theme=dark&hide_title=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fitse-hub&theme=dark)
 
 </div>
 
 ---
 
- 
-
-
-## 🚀 Skills
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me - Digital Architect & Innovation Catalyst
 
 <div align="center">
-  
 
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="50" title="html"  alt="HTML" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="50" title="css" alt="CSS" />
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="50" title="javascript" alt="JavaScript" />
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="50" title="python" alt="Python" />
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="50" title="java" alt="Java" />
-  <img src="https://cdn.worldvectorlogo.com/logos/php-6.svg" height="50" title="php" alt="Php />
-  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="50" alt="C++" />
- </p>
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Transforming+Ideas+into+Digital+Reality;Building+Tomorrow's+Technology+Today;Crafting+Exceptional+User+Experiences;Solving+Complex+Problems+with+Code" alt="Professional Tagline" />
+
+</div>
+
+<img align="right" alt="Developer Animation" width="350" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
+### 🎯 **Professional Journey**
+> *Passionate **Full Stack Developer** with 5+ years of experience crafting large-scale, visually rich web applications. I specialize in building animated, user-centric interfaces that transform complex ideas into seamless digital experiences. My work blends performance, design, and interactivity to deliver world-class front-end and back-end solutions.*
+
+### 🚀 **Current Mission**
+> *Driving next-generation web experiences through fully animated, scalable full-stack systems. I focus on building powerful educational tools, interactive platforms, and real-world applications with clean architecture and stunning UI. My mission is to transform ambitious ideas into immersive digital realities.*
+
+### 💡 **Innovation Philosophy**
+> *I believe in the power of clean code, agile methodologies, and continuous learning. Every project is an opportunity to push boundaries, optimize performance, and create meaningful impact through technology.*
+
+### 🌟 **Core Expertise**
+- **🎨 Frontend Mastery**: Crafting responsive, accessible, and performant user interfaces
+- **⚙️ Backend Excellence**: Building scalable APIs, microservices, and distributed systems  
+- **🛠️ Project Development & Architecture**: Scalable, structured projects with full front-end features
+- **📱 Interactive & Next-Gen Web Experiences**:  Engaging 3D, real-time, next-gen web interactions
+- **🚀 Creativity & Innovation**:Innovative tools like ThermoSwap and quiz systems
+### 🎓 **Continuous Learning**
+> *Currently exploring Web3 technologies, advanced web algorithms, and next generation applications. I'm committed to staying at the forefront of technological innovation.*
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Arsenal - Weapons of Mass Creation
+
+<div align="center">
+
+### 💻 **Programming Languages**
+</br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,php" />
+
+</br>
+</br>
+
+### 🎨 **Frontend Technologies**
+</br>
+<img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,svelte,html,css" />
+
+</br>
+</br>
+
+### ⚙️ **Backend & Database**
+</br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,dotnet,laravel,fastapi" />
+
+</br>
+</br>
+
+### 🔧 **Tools & Others**
+</br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash,vim" />
+</br>
+
+</div>
+
+---
+</br>
 
 
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="50"  title="react" alt="React" />
-   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="50" title="next js" alt="Next" />
- <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="50"  title="typescript" alt="TypeScript" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="50"  title="tailwind CSS" alt="Tailwind CSS" />
-</p>
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> GitHub Analytics - Performance Dashboard
 
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="50" title="node.js" alt="Node.js" />
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="50" title="laravel" alt="Laravel" />
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="50" title="mongoDB" alt="MongoDB" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="50" title="postgreSQL"  alt="PostgreSQL" />
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="50" title="firebase" alt="Firebase" />
-  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="50" title="Xampp"  alt="Xampp" />
-</p>
+<div align="center">
+
+<!-- Animated Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=fitse-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fitse-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="49%">
+
+<!-- Language Distribution -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitse-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="49%">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fitse-hub&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%">
+
+</div>
+
+### 🏆 **Achievement Showcase**
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fitse-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews,Issues" alt="GitHub Trophies">
+</div>
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Let's Build the Future Together
+
+<div align="center">
+
+### 🚀 **Ready for Your Next Big Project?**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💼+Available+for+Freelance+Projects;🤝+Open+to+Full-Time+Opportunities;🌟+Seeking+Innovation+Partners;🎯+Ready+to+Scale+Your+Startup;🚀+Let's+Transform+Ideas+into+Reality" alt="Availability Status" />
+
+### 💎 **What I Bring to Your Team**
+- 🎯 **scalable Front-End Architecture**: I build structured, maintainable codebases for large projects
+- 🧱 **UI Architecture**: Well-structured, reusable components and clean folder organization in large projects  
+- 🔧 **Technical Excellence**: Clean, scalable, maintainable code
+- 🤝 **Team Collaboration**: I communicate clearly, give/receive feedback respectfully, and value teamwork
 
 
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" height="50" title="github" alt="GitHub" />
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="50" title="git" alt="Git" />
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="50" title="postman" alt="Postman" />
-  <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="50" title="netlify" alt="Netlify" />
-  <img src="https://imgs.search.brave.com/TMj7RdxJPIsmJC9KaGH1M_YwCRg1rd4bHDWzJsqFIy4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvaGVyb2t1/LjBkMzUyNTgwYjU2/Mi5wbmc" height="50" title="heroku" alt="Heroku" />
-  <img src="https://imgs.search.brave.com/96khqNZO1LJt_e6RG-xNXrYl-d0TcMaaPpXmcY3nm3g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RfdmVy/Y2VsMTg2OC5qcGc" height="50" title="vercel" alt="Vercel" />
-</p>
+### 🌟 **Let's Connect and Create Magic!**
+<a href="mailto:fitsumgashaw11@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email_Me-FF6B6B?style=for-the-badge&logoColor=white" alt="Email" height="50">
+</a>
+<a href="https://t.me/StormX_official">
+  <img src="https://img.shields.io/badge/💬_Telegram-00D9FF?style=for-the-badge&logoColor=white" alt="Schedule" height="50">
+</a>
+<a href="https://fitsumgashaw-portfolio.netlify.app">
+  <img src="https://img.shields.io/badge/🌐_View_Portfolio-4CAF50?style=for-the-badge&logoColor=black" alt="Portfolio" height="50">
+</a>
 
-
-<p>
-  <img src="https://imgs.search.brave.com/gAmpRkVnmc780FDrCM1Y_kZV6HlXDCp6hj3Is2Rmnik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NjczMzYz/N2xvZ28tY2FudmEt/cG5nLnBuZw" height="50" title="canva" alt="Canva" />
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" height="50" title="figma" alt="Figma" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="50" title="adobe photoshop" alt="Adobe Photoshop" />
-</p>
+</div>
 
 </div>
 
 
----
+<div align="center">
 
-## Contact Me 👇
+<!-- Final Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-🌟 I'm always open to collaboration and working on exciting projects and ideas. If you share similar interests or have a project you'd like to work on, feel free to reach out on the socials below!
-<p align="center">
-  <a href='https://www.instagram.com/fitse_23/'>
-    <img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" height="35px"/>
-  </a>
-  <a href='mailto:dev.fitsumgashaw11@gmai.com'>
-    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="35px"/>
-  </a>
-  <a href='https://t.me/StormX_official'>
-    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" height="35px"/>
-  </a>
-</p>
+### 💫 *"The best way to predict the future is to create it."* 💫
+
+
+<!-- Holographic Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
+
+</div>
