@@ -28,13 +28,16 @@ Hello 👋
 Aspiring Full Stack Developer 🚀 | Passionate about crafting engaging and intuitive user experiences 💻 |<br />
 Constantly learning and growing in the world of web development 🌐 | Let's collaborate and build something <br /> amazing together! 🌟
 - 💬 I'm currently working on **Vue.js and Laravel 11/12/13** 
-- ⚡ Check out my latest website: <a href="https://#" target="_blank">null</a> <img src="hot.gif" /> Check my Portifolio
-- 💻 <a href="http://#" target="_blank">Portfolio</a>
+-🌱 Always learning new technologies and improving my craft
+- ⚡ Check out my latest website: <a href="https://#" target="_blank">null</a> <img src="hot.gif" />
+- 💻 Check my Portifolio <a href="http://#" target="_blank">Portfolio</a>
 
 </br>
 </br>
 </br>
-
+</br>
+</br></br>
+</br>
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Arsenal - Weapons of Mass Creation
 
 <div align="center">
