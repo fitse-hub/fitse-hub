@@ -30,7 +30,7 @@ Constantly learning and growing in the world of web development 🌐 | Let's col
 - 💬 I'm currently working on **Vue.js and Laravel 11/12/13** 
 - 📚 Always learning new technologies and improving my craft
 - ⚡ Check out my latest website: <a href="https://#" target="_blank">null</a> <img src="hot.gif" />
-- 💻 Check my Portifolio <a href="http://#" target="_blank">Portfolio</a>
+- 💻 Check my Portifolio <a href="http://fitsumgashaw-portfolio.netlify.app" target="_blank">Portfolio</a>
 
 </br>
 </br>
@@ -78,15 +78,8 @@ Constantly learning and growing in the world of web development 🌐 | Let's col
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💼+Available+for+Freelance+Projects;🤝+Open+to+Full-Time+Opportunities;🌟+Seeking+Innovation+Partners;🎯+Ready+to+Scale+Your+Startup;🚀+Let's+Transform+Ideas+into+Reality" alt="Availability Status" />
 
-### 💎 **What I Bring to Your Team**
-- 🎯 **scalable Front-End Architecture**: I build structured, maintainable codebases for large projects
-- 🧱 **UI Architecture**: Well-structured, reusable components and clean folder organization in large projects  
-- 🔧 **Technical Excellence**: Clean, scalable, maintainable code
-- 🤝 **Team Collaboration**: I communicate clearly, give/receive feedback respectfully, and value teamwork
-
-
 ### 🌟 **Let's Connect and Create Magic!**
-<a href="mailto:fitsumgashaw11@gmail.com">
+<a href="mailto:fitsumgashaw22@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email_Me-FF6B6B?style=for-the-badge&logoColor=white" alt="Email" height="50">
 </a>
 <a href="https://t.me/StormX_official">
