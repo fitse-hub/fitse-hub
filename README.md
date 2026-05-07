@@ -27,10 +27,11 @@
 Hello 👋 
 Aspiring Full Stack Developer 🚀 | Passionate about crafting engaging and intuitive user experiences 💻 |<br />
 Constantly learning and growing in the world of web development 🌐 | Let's collaborate and build something <br /> amazing together! 🌟
-- 💬 I'm currently working on **Vue.js and Laravel 11/12** 
-- ⚡ Check out my latest website: <a href="https://audiophile-ecommerce-ebon.vercel.app/" target="_blank">Audiophile</a> <img src="hot.gif" /> Check my Portifolio
-- 💻 <a href="http://natsfolio.vercel.app/" target="_blank">Portfolio</a>
+- 💬 I'm currently working on **Vue.js and Laravel 11/12/13** 
+- ⚡ Check out my latest website: <a href="https://#" target="_blank">null</a> <img src="hot.gif" /> Check my Portifolio
+- 💻 <a href="http://#" target="_blank">Portfolio</a>
 
+</br>
 </br>
 </br>
 
