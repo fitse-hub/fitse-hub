@@ -24,6 +24,13 @@
 
 <img align="right" alt="Developer Animation" width="350" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
+Hello 👋 
+Aspiring Full Stack Developer 🚀 | Passionate about crafting engaging and intuitive user experiences 💻 |<br />
+Constantly learning and growing in the world of web development 🌐 | Let's collaborate and build something <br /> amazing together! 🌟
+- 💬 I'm currently working on **Vue.js and Laravel 11/12** 
+- ⚡ Check out my latest website: <a href="https://audiophile-ecommerce-ebon.vercel.app/" target="_blank">Audiophile</a> <img src="hot.gif" /> Check my Portifolio
+- 💻 <a href="http://natsfolio.vercel.app/" target="_blank">Portfolio</a>
+
 ### 🎯 **Professional Journey**
 > *Passionate **Full Stack Developer** with 5+ years of experience crafting large-scale, visually rich web applications. I specialize in building animated, user-centric interfaces that transform complex ideas into seamless digital experiences. My work blends performance, design, and interactivity to deliver world-class front-end and back-end solutions.*
 
@@ -78,29 +85,6 @@
 
 ---
 </br>
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> GitHub Analytics - Performance Dashboard
-
-<div align="center">
-
-<!-- Animated Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=fitse-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fitse-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="49%">
-
-<!-- Language Distribution -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitse-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="49%">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fitse-hub&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%">
-
-</div>
-
-### 🏆 **Achievement Showcase**
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fitse-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews,Issues" alt="GitHub Trophies">
-</div>
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Let's Build the Future Together
 
