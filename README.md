@@ -31,26 +31,6 @@ Constantly learning and growing in the world of web development 🌐 | Let's col
 - ⚡ Check out my latest website: <a href="https://audiophile-ecommerce-ebon.vercel.app/" target="_blank">Audiophile</a> <img src="hot.gif" /> Check my Portifolio
 - 💻 <a href="http://natsfolio.vercel.app/" target="_blank">Portfolio</a>
 
-### 🎯 **Professional Journey**
-> *Passionate **Full Stack Developer** with 5+ years of experience crafting large-scale, visually rich web applications. I specialize in building animated, user-centric interfaces that transform complex ideas into seamless digital experiences. My work blends performance, design, and interactivity to deliver world-class front-end and back-end solutions.*
-
-### 🚀 **Current Mission**
-> *Driving next-generation web experiences through fully animated, scalable full-stack systems. I focus on building powerful educational tools, interactive platforms, and real-world applications with clean architecture and stunning UI. My mission is to transform ambitious ideas into immersive digital realities.*
-
-### 💡 **Innovation Philosophy**
-> *I believe in the power of clean code, agile methodologies, and continuous learning. Every project is an opportunity to push boundaries, optimize performance, and create meaningful impact through technology.*
-
-### 🌟 **Core Expertise**
-- **🎨 Frontend Mastery**: Crafting responsive, accessible, and performant user interfaces
-- **⚙️ Backend Excellence**: Building scalable APIs, microservices, and distributed systems  
-- **🛠️ Project Development & Architecture**: Scalable, structured projects with full front-end features
-- **📱 Interactive & Next-Gen Web Experiences**:  Engaging 3D, real-time, next-gen web interactions
-- **🚀 Creativity & Innovation**:Innovative tools like ThermoSwap and quiz systems
-### 🎓 **Continuous Learning**
-> *Currently exploring Web3 technologies, advanced web algorithms, and next generation applications. I'm committed to staying at the forefront of technological innovation.*
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Arsenal - Weapons of Mass Creation
 
 <div align="center">
