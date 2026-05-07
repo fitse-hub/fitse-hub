@@ -44,23 +44,20 @@ Constantly learning and growing in the world of web development 🌐 | Let's col
 <img src="https://skillicons.dev/icons?i=js,python,java,cpp,php" />
 
 </br>
-</br>
-</br>
-</br>
 
 ### 🎨 **Frontend Technologies**
 </br>
 <img src="https://skillicons.dev/icons?i=vue,html,css" />
 
 </br>
-</br>
+
 
 ### ⚙️ **Backend & Database**
 </br>
 <img src="https://skillicons.dev/icons?i=laravel,mysql" 
 
 </br>
-</br>
+
 
 ### 🔧 **Tools & Others**
 </br>
