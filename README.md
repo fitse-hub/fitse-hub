@@ -64,7 +64,7 @@
 
 ### ⚙️ **Backend & Database**
 </br>
-<img src="https://skillicons.dev/icons?i=laravel" 
+<img src="https://skillicons.dev/icons?i=laravel,mysql" 
 
 </br>
 </br>
