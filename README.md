@@ -50,28 +50,28 @@
 
 ### 💻 **Programming Languages**
 </br>
-<img src="https://skillicons.dev/icons?i=js,python,java,c++,php" />
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,php" />
 
 </br>
 </br>
 
 ### 🎨 **Frontend Technologies**
 </br>
-<img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,svelte,html,css" />
+<img src="https://skillicons.dev/icons?i=vue,html,css" />
 
 </br>
 </br>
 
 ### ⚙️ **Backend & Database**
 </br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,dotnet,laravel,fastapi" />
+<img src="https://skillicons.dev/icons?i=laravel" 
 
 </br>
 </br>
 
 ### 🔧 **Tools & Others**
 </br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash,vim" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </br>
 
 </div>
