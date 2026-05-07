@@ -50,7 +50,7 @@
 
 ### 💻 **Programming Languages**
 </br>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,php" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c++,php" />
 
 </br>
 </br>
