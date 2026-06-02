@@ -4,17 +4,9 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Welcome to My Digital Universe <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=🚀+FULL+STACK+ARCHITECT;💎+UI%2FUX+VIRTUOSO;🧠+AI+INNOVATION+PIONEER;⚡+PERFORMANCE+OPTIMIZATION+EXPERT;🌟+DIGITAL+TRANSFORMATION+CATALYST" alt="Animated Titles" />
-
-<!-- Holographic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
 </div>
 
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me - Digital Architect & Innovation Catalyst
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 <div align="center">
 
