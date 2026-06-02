@@ -16,9 +16,10 @@
 
 <img align="right" alt="Developer Animation" width="350" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-Hello 👋 
-Aspiring Full Stack Developer 🚀 | Passionate about crafting engaging and intuitive user experiences 💻 |<br />
-Constantly learning and growing in the world of web development 🌐 | Let's collaborate and build something <br /> amazing together! 🌟
+Hello 👋 </br>
+🚀 | Passionate about crafting engaging and intuitive user experiences </br>
+💻 | Constantly learning and growing in the world of web development </br>
+🌐 | Let's collaborate and build something amazing together! 🌟
 - 💬 I'm currently working on **Vue.js and Laravel 11/12/13** 
 - 📚 Always learning new technologies and improving my craft
 - ⚡ Check out my latest website: <a href="https://#" target="_blank">null</a> <img src="hot.gif" />
@@ -28,34 +29,19 @@ Constantly learning and growing in the world of web development 🌐 | Let's col
 </br>
 </br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Arsenal - Weapons of Mass Creation
+
+</br>
+</br>
+</br>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-### 💻 **Programming Languages**
+
 </br>
 <img src="https://skillicons.dev/icons?i=js,python,java,cpp,php,vue,html,css,laravel,mysql,git,github,vscode,postman" />
 
-</br>
-
-### 🎨 **Frontend Technologies**
-</br>
-<img src="https://skillicons.dev/icons?i=vue,html,css" />
-
-</br>
-
-
-### ⚙️ **Backend & Database**
-</br>
-<img src="https://skillicons.dev/icons?i=laravel,mysql" 
-
-</br>
-
-
-### 🔧 **Tools & Others**
-</br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</br>
 
 </div>
 
@@ -66,11 +52,9 @@ Constantly learning and growing in the world of web development 🌐 | Let's col
 
 <div align="center">
 
-### 🚀 **Ready for Your Next Big Project?**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💼+Available+for+Freelance+Projects;🤝+Open+to+Full-Time+Opportunities;🌟+Seeking+Innovation+Partners;🎯+Ready+to+Scale+Your+Startup;🚀+Let's+Transform+Ideas+into+Reality" alt="Availability Status" />
 
 ### 🌟 **Let's Connect and Create Magic!**
+</br>
 <a href="mailto:fitsumgashaw22@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email_Me-FF6B6B?style=for-the-badge&logoColor=white" alt="Email" height="50">
 </a>
@@ -94,7 +78,5 @@ Constantly learning and growing in the world of web development 🌐 | Let's col
 ### 💫 *"The best way to predict the future is to create it."* 💫
 
 
-<!-- Holographic Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
 
 </div>
