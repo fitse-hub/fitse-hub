@@ -34,7 +34,7 @@ Constantly learning and growing in the world of web development 🌐 | Let's col
 
 ### 💻 **Programming Languages**
 </br>
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,php" />
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,php,vue,html,css,laravel,mysql,git,github,vscode,postman" />
 
 </br>
 
