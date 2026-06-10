@@ -22,8 +22,8 @@ Hello 👋 </br>
 🌐 | Let's collaborate and build something amazing together! 🌟
 - 💬 I'm currently working on **Vue.js and Laravel 11/12/13** 
 - 📚 Always learning new technologies and improving my craft
-- ⚡ Check out my latest website: <a href="https://#" target="_blank">null</a> <img src="hot.gif" />
-- 💻 Check my Portifolio <a href="http://fitsumgashaw-portfolio.netlify.app" target="_blank">Portfolio</a>
+- ⚡ Check out my latest website: <a href="https://#" target="_blank">latest website</a> <img src="hot.gif" />
+- 💻 Check my Portifolio <a href="https://fitsumengineer.netlify.app/" target="_blank">Portfolio</a>
 
 </br>
 </br>
