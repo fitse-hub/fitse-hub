@@ -61,7 +61,7 @@ Hello 👋 </br>
 <a href="https://t.me/StormX_official">
   <img src="https://img.shields.io/badge/💬_Telegram-00D9FF?style=for-the-badge&logoColor=white" alt="Schedule" height="50">
 </a>
-<a href="https://fitsumgashaw-portfolio.netlify.app">
+<a href="https://fitsumengineer.netlify.app">
   <img src="https://img.shields.io/badge/🌐_View_Portfolio-4CAF50?style=for-the-badge&logoColor=black" alt="Portfolio" height="50">
 </a>
 
