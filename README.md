@@ -48,34 +48,6 @@ Hello 👋 </br>
 ---
 </br>
 
----
-
-## 📊 GitHub Statistics & Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/fitse-hub">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fitse-hub&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Account Statistics" />
-</a>
-<a href="https://github.com/fitse-hub">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitse-hub&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Programming Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/fitse-hub">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=fitse-hub&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&mode=daily" alt="GitHub Daily Contribution Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/fitse-hub">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=fitse-hub&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" />
-</a>
-
-</div>
-
-
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Let's Build the Future Together
 
